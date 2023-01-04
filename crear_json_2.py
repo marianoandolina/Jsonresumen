@@ -56,5 +56,3 @@ def crear_familiares():
 
 if __name__ == "__main__":
     crear_familiares()
-
-
